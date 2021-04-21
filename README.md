@@ -4,4 +4,4 @@
 
 ## UE4 Plugins
 
-- [FreeD Plugin](https://vizdeveloper.github.io/freed/)
+- [FreeD](https://vizdeveloper.github.io/freed/)
